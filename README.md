@@ -1,14 +1,7 @@
-# Rock Paper Scissors Game (C++)
+# C++ Practice Projects
 
-A console-based Rock Paper Scissors game to play against the computer.
+This repository contains three small C++ projects:
 
-## Features
-- Play multiple rounds
-- Tracks wins, losses, and draws
-- Shows the winner of each round
-- Displays the final result at the end
-
-## How to Run
-1. Compile `main.cpp`
-2. Run the game
-3. Choose [1] Stone, [2] Paper, [3] Scissors for each round
+1. [Client Management System](./ClientManagementSystem) - A simple console-based system to manage clients.
+2. [Math Quiz Game](./Math-Quiz-Game) - A quiz game to practice arithmetic operations.
+3. [Rock Paper Scissors](./Rock-Paper-Scissors) - A console game to play Rock-Paper-Scissors against the computer.
